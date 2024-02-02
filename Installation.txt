@@ -1,0 +1,5 @@
+How to install
+
+1) Navigate to Documents/Rockstar Games/GTA V/Profiles/(your profile)
+2) Copy and paste SGTA50015 and SGTA50015.bak (you may have to rename these if you already have
+files with the same name) into your profile folder
